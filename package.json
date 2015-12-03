@@ -18,6 +18,7 @@
   "homepage": "https://github.com/ekopelevich/promises_practice#readme",
   "devDependencies": {
     "budo": "^7.0.0",
-    "watchify": "^3.6.1"
+    "watchify": "^3.6.1",
+    "xhr": "^2.2.0"
   }
 }
